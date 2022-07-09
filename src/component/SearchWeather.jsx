@@ -81,7 +81,7 @@ function SearchWeather() {
               />
               <div className="card-img-overlay">
                 <form onSubmit={handleSubmit}>
-                  <div className="input-group mb-5 w-75 mx-auto">
+                  <div className="input-group mb-5 w-75 mx-auto mt-4">
                     <input
                       type="search"
                       className="form-control shadow-none"
